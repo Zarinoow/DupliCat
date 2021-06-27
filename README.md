@@ -11,3 +11,6 @@
 <h3 align="center">DupliCat is a linux tool that allows you to copy the same file(s) to several folders at once.</h3>
 <hr/>
 
+## How to use it ?
+
+<p>Comming soon...</p>
