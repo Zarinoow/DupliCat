@@ -1,7 +1,7 @@
 # DupliCat
 
 <p align="center">
-  <a href="https://https://github.com/Zarinoow/DupliCat">
+  <a href="https://github.com/Zarinoow/DupliCat">
     <img src="favicon.png" alt="DupliCat Logo" height="256">
   </a>
   <br/>
