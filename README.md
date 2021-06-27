@@ -13,4 +13,12 @@
 
 ## How to use it ?
 
-<p>Comming soon...</p>
+<p>1) First, download the latest version <a href="https://github.com/Zarinoow/DupliCat/releases/latest/">here</a>.</p>
+<p>2) To be able to run the script, you have to grant it permission in execution.</p>
+
+```
+chmod 774 duplicat.sh
+```
+<p>3) Now, you need to create a folder called "files"<p>
+
+Comming soon...
