@@ -22,9 +22,11 @@ chmod +x duplicat.sh
 <p>3) Now, you need to create a folder called "files", this is where you would put all the folder and files you want to duplicate</p>
 
 <p>4) Now you have to change the destination folders. To do this, change the variable "folders" and assign it to a directory path. For each directory, use a new line.</p>
+
 ```
 nano duplicat.sh
 ```
+
 ```
 folders=(
 "/example/folder1"
