@@ -17,8 +17,18 @@
 <p>2) To be able to run the script, you have to grant it permission in execution.</p>
 
 ```
-chmod 774 duplicat.sh
+chmod +x duplicat.sh
 ```
-<p>3) Now, you need to create a folder called "files"<p>
+<p>3) Now, you need to create a folder called "files", this is where you would put all the folder and files you want to duplicate</p>
 
-Comming soon...
+<p>4) Now you have to change the destination folders. To do this, change the variable "folders" and assign it to a directory path. For each directory, use a new line.</p>
+```
+nano duplicat.sh
+```
+```
+folders=(
+"/example/folder1"
+"/example/folder2"
+"/example/folder3"
+)
+```
