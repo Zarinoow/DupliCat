@@ -48,3 +48,7 @@ folders=(
 </p>
 
 <p>7) Once you have chosen the option, press enter and your selection should be copied.</p>
+
+
+## ❓ Need help or want to make a suggestion
+<p align="center">https://discord.gg/jbg6x8Buum</p>
