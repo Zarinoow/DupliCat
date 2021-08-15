@@ -34,3 +34,17 @@ folders=(
 "/example/folder3"
 )
 ```
+
+<p>5) You can now run the script.</p>
+
+```
+./duplicat.sh
+```
+
+<p>6) From now on, several choices are available to you.</p>
+<p>0 - ∝) Choose the destination folder, for a multiple selection, separate with a comma. (Eg: "0,1,4")
+  </br>a) Copy the file to all specified folders
+  </br>c) Exit the program without copying anything
+</p>
+
+<p>7) Once you have chosen the option, press enter and your selection should be copied.</p>
